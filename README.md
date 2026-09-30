@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Opa! Eu sou o Vitor Andrade
 
-<!--
-**andradehvitor/andradehvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento Web
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou começando minha jornada
+na programação. Atualmente estou aprendendo **HTML, CSS e JavaScript**
+e criando meus primeiros projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sempre tentando aprender algo novo e melhorar meus códigos.
+
+### 🛠️ Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+### 📂 Projetos
+
+Aqui no meu GitHub vou colocando meus projetos e mostrando
+minha evolução na programação.
+
+### 📫 Contato
+
+📧 andradehvitor1809@gmail.com
+
+---
+
+⭐ Valeu por passar por aqui!
